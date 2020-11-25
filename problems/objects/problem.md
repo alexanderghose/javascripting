@@ -24,9 +24,3 @@ const pizza = {
 ```
 
 Use `console.log()` to print the `pizza` object to the terminal.
-
-Check to see if your program is correct by running this command:
-
-```bash
-javascripting verify objects.js
-```
